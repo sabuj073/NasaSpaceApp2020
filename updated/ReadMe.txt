@@ -1,0 +1,1 @@
+python allinfoAsteroid.py asteroid_id full_time_date velocity distance

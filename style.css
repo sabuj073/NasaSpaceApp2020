@@ -1,0 +1,56 @@
+.header{
+	height:90px;
+	background-color:#9c27b0;
+	padding:10px;
+	margin-bottom:0px;
+}
+.header h2{
+	color:#fff;
+}
+.col-md-8{
+	position:relative;
+}
+.form{
+	top:0px;
+	right:15px;
+	position:absolute;
+	width:250px;
+	border-left:1px solid red;
+	padding: 5px 3px;
+	background-color:rgba(50,80,100,0.8);
+}
+.form input{
+	height:20px;
+	width:100%;
+	font-size:12px;
+}
+.form label{
+	color:#fff;
+	font-size:12px;
+}
+.form button{
+	font-size:12px;
+}
+.col-md-12 iframe{
+	width:100%;
+	height:450px;
+}
+.col-md-12 a img{
+	width:100%;
+	height:250px;
+	margin-bottom:20px;
+}
+.col-md-2 img{
+	width:100%;
+	height:90px;
+}
+.action{
+	display:none;
+}
+.impact:hover .row .action{
+	display:block;
+}
+
+.col-md-4 iframe{
+	display :block !important;
+}

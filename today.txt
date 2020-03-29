@@ -1,0 +1,66 @@
+Asteroid approach today..................
+Date: 2020-03-29
+
+Asteroid id: 54016331
+Asteroid Name: (2020 FS3)
+Estimated Diameter: 102.727779717 meters
+Close Approach Date & Time: 2020-Mar-29 00:35
+Velocity: 57000.3954539144 km/h
+Distance to Earth: 7895660.148883508 km
+--------------------
+Asteroid id: 54016340
+Asteroid Name: (2020 FE4)
+Estimated Diameter: 95.25502639289999 meters
+Close Approach Date & Time: 2020-Mar-29 06:10
+Velocity: 47501.6496610093 km/h
+Distance to Earth: 12892505.10471238 km
+--------------------
+Asteroid id: 54016355
+Asteroid Name: (2020 FK4)
+Estimated Diameter: 17.7454861518 meters
+Close Approach Date & Time: 2020-Mar-29 22:41
+Velocity: 19244.6370292508 km/h
+Distance to Earth: 1698988.649429699 km
+--------------------
+Asteroid id: 3582516
+Asteroid Name: (2011 UV63)
+Estimated Diameter: 257.32850784415 meters
+Close Approach Date & Time: 2020-Mar-29 13:15
+Velocity: 26770.9118471819 km/h
+Distance to Earth: 21749209.915358004 km
+--------------------
+Asteroid id: 3742873
+Asteroid Name: (2016 CB137)
+Estimated Diameter: 162.3633119684 meters
+Close Approach Date & Time: 2020-Mar-29 17:53
+Velocity: 37172.8589163826 km/h
+Distance to Earth: 67829037.887464411 km
+--------------------
+Asteroid id: 3802423
+Asteroid Name: (2018 GL1)
+Estimated Diameter: 102.44432416065 meters
+Close Approach Date & Time: 2020-Mar-29 07:35
+Velocity: 65176.4048360353 km/h
+Distance to Earth: 67103672.582379399 km
+--------------------
+Asteroid id: 3515692
+Asteroid Name: (2010 GD35)
+Estimated Diameter: 67.68429375845 meters
+Close Approach Date & Time: 2020-Mar-29 19:19
+Velocity: 43269.9590447986 km/h
+Distance to Earth: 5845897.944387541 km
+--------------------
+Asteroid id: 3989182
+Asteroid Name: (2020 BC8)
+Estimated Diameter: 552.9525964664999 meters
+Close Approach Date & Time: 2020-Mar-29 19:02
+Velocity: 73617.2968059385 km/h
+Distance to Earth: 60334193.292100658 km
+--------------------
+Asteroid id: 3989266
+Asteroid Name: (2020 BS11)
+Estimated Diameter: 158.37546452015 meters
+Close Approach Date & Time: 2020-Mar-29 11:08
+Velocity: 21580.1982444678 km/h
+Distance to Earth: 17639086.542155931 km
+--------------------

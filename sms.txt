@@ -1,0 +1,7 @@
+<?php
+	include("function.php");
+
+
+ $clientsms = "Assalamualaikum ".$name.".\r\nThanks for contacting ZamZam Travels BD via our ".$source .". Our executive Mr. ".$crm." will contact with you as soon as possible.\r\n\r\nRegards,\r\nSheikh Muhammad Shakil\r\nChief Operating Officer\r\n+8801733391826\r\nZamZam Travels BD\r\nhttp://zamzamtravelsbd.com" ;
+$mobile = "01703235615";
+        sendtoclient($clientsms,$mobile);
